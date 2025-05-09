@@ -1,0 +1,15 @@
+
+AccountNo	Name	InitialBalance
+112211	denuja	1000.012345
+112212	makisa	500.01111
+112213	pirusa	15000.03333
+AccountNo	Name	InitialBalance
+112211	danuja	2000.02020
+AccountNo	Name	InitialBalance
+112211	anjel	1000.03333
+AccountNo	Name	InitialBalance
+112211	sahana	2000.0444
+AccountNo	Name	InitialBalance
+112211	manura	1000.05555
+AccountNo	Name	InitialBalance
+112211	manura	1200.05555
